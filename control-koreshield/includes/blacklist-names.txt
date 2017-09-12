@@ -1,0 +1,27 @@
+^GM.*
+^\[GM\].*
+^\[GE\].*
+^testelup.*
+^TesteLup.*
+^lupteste.*
+^ASGARD_\w{1,3}_.+
+^THOR_\w{1,3}_.+
+^Torin Tigerfist$
+testelup
+^Teste\d+
+^bRO\d+
+^\d+bRO
+#^kja
+^Blu!g
+^Derpin.\d+
+
+#thor
+^Mic0
+akkaripkr
+ºLovegood'sº
+kkjhhjf
+AlexFoxTroty
+LeckTospiiRoSe
+
+# asgard
+Growerr

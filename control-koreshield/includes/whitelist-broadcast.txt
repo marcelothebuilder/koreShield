@@ -1,0 +1,206 @@
+# TESTANDO UTF-8 áéíóúàèìòùçãõ
+
+# ABAIXO MATCH TODAS AS MSG DE MEGAFONE
+.*\?\?\?\!\!\!
+
+^micc
+^tool[A-Fa-f0-9]{6}
+^ssss
+
+desconto
+Afaste o calor e aproveite esta delicia gelada. 
+Atenção Heróis.*
+Espadas Gêmeas do MVP Naght Sieger entre outros itens!
+Não sustente quem te desrespeita\.
+a divulgue a ninguém\. Ela é de uso pessoal e também
+cabeça e garantir diferentes bônus para seu personagem. 
+e deixar seu personagem muito mais poderoso\. Aproveite!
+isso, você contribui para atividades ilegais, e poderá
+não deve ser digitada em sites não-oficiais\.
+no Ragnarök Online\. Valorize seu esforço\.
+para obter ótimos prêmios, que desta vez podem incluir as
+ter sua conta bloqueada permanentemente\.
+todos os itens contidos na janela de troca\. Caso não corresponda
+Ao negociado, lembramos que a janela pode ser cancelada pelo
+jogador\. Apenas realize negociações com pessoas de confiança\.
+A nova Mini Coroa chegou! Equipe esta preciosidade
+em seu personagem e mostre sua descendência real a
+todos os seus futuros súditos\. Adquira já a sua!
+E o resultado final é\.\.\.
+Corporação Kafra proverá o Serviço de Teletransporte aos Calabouços!
+Agradecemos a todos que participaram das eleições!
+com a venda direta Caixa de Rédea, que traz a Rédea
+Permanente\. Corra para garantir as suas! Confira no site\.
+seu Ovo de Asgard que acaba de retornar a Rune-Midgard\.
+Avise seus amigos e aproveite!
+Dica do \[GM\]\:.*
+ser digitada em sites não-oficiais\.
+senhas ou qualquer outro tipo de informação pessoal aos jogadores\.
+Seus nomes sempre começam com \[GM\] ou \[LU!\]\.
+a ninguém\. Ela é de uso pessoal e também não deve
+Finalizamos os investimentos para a conexão com o \'Portal do Abismo\'\.
+Conseguimos o resultado do investimento para o \'Portal do Abismo\'\. Você pode checar a Placa de Status de Investimento em cada Feudo
+^Até \d{1,2}/\d{1,2}
+Faça parte da comunidade de Ragnarök\.
+Máscara
+adquirindo
+chapéu
+incríveis
+facebook
+aventura
+pelas? siglas?
+pela sigla
+nosso site
+mensagem dessas\, certifique-se de responder o quanto antes\.
+RBC \d{4}
+prêmios especiais
+garantindo sua viagem até o santuário dos MVPs, para
+[Pp]romoção
+Em \d{1,2}/\d{1,2},
+Participe enviando
+Lu!?Cast
+www\.
+investimentos
+ao adquirir
+twitch
+para saber mais
+Pacote Natalino
+seu visual
+Orc\'s Memory
+cada um dos itens disponíveis
+Loja de ROPs
+p_name2
+mais e aproveitar por completo\!
+equipamentos e ficar pronto para os desafios de 2014\!
+e tenha chances de obter itens inéditos\!
+prêmio
+Deixe seu personagem do jeito que sempre desejou
+Aproveite para conseguir este item especial
+Seus nomes sempre começam com
+(consiga|garanta) já o seu
+obter o seu
+o quanto antes
+avise seus amigos
+oportunidade
+^Criador Taab.*
+O selo \[.*\] foi inteiramente aberto\.
+
+# Eventos
+The \'Pintados Festival\' will be held for a week in Baryo Mahiwaga\.
+Organizador Mimyo
+
+# megafone
+(.+) diz \'.+\'
+
+# Quests
+O portal para Geffenia está fechando\.
+Através de uma luz muito forte vinda da fonte, o portal para Geffenia se abriu\.
+
+# Manutenção
+Atenção:
+Entraremos em manutenção em \d+ minutos?\.
+Por favor desloguem seus personagens para a sua segurança\.
+Equipe Level Up!
+
+# Ash Vacuum
+^(.*) pescou uma (.*)!!
+
+# Kafra Voting
+A eleição para o Serviço de Teletransporte aos Calabouços está aberta em Juno e Prontera\. Participe, o seu voto é importante\.
+Todos os votos para o Serviço de Teletransporte aos Calabouços foram contados\.
+
+# eventos
+Luchta Schmied: .*
+
+# einbroch
+Agência de Proteção Amb: O estado de emergência agora está cancelado\. Os níveis de poluição do ar agora estão dentro da zona de segurança\.
+
+# Selos
+O (primeiro|segundo|terceiro|quarto) selo de \[.*\] apareceu\.
+A quest do último selo, \[Mjolnir\], foi liberada\.
+O selo de \[.*\] foi liberado\.
+A quest do (primeiro|segundo|terceiro|quarto) selo, \[.*\], foi liberada\.
+O item divino \[.*\] foi entregue a \[.*\], líder do clã \[.*\]\.
+
+# Invocação
+A Okolnir imaginária foi aberta por \[.*\] do clã \[.*\]\.
+\[.*\] membro do clã \[.*\] invocou o 'Presente da Valquíria' em .*\.
+A cerimônic?a de invocação começará em \d minutos? em .*\.
+Dirijam-se a .* para participar da cerimônia\.
+O \d+\º \'Presente da Valquíria\' foi invocado aqui em .* pela Dama dos Desejos\.
+A invocação será feita 12 vezes com um intervalo de 5 minutos entre cada uma, durante uma hora\.
+A Luz dos Deuses \[ Asfrika \] vem a este mundo para \[.*\], do clã \[.*\]\.
+A cerimônia de invocação chegou ao fim\. Tenho certeza que houve muita diversão\.
+A cerimônia final será realizada por 5 minutos\.
+
+# Aeroplano
+Estamos em .*\. O Aeroplano vai decolar logo\.
+Estamos nos dirigindo a .*\.
+O Aeroplano (está decolando|vai decolar)\. (Nosso destino|O próximo destino) é .*\.
+Chegaremos a .* logo\.
+Chegaremos em breve a (.*)\.
+Chegaremos logo a (.*)\.
+Bem-vindos? (a|à) .*\. Façam? uma boa viagem\.
+
+# Investimento Feudos
+Lei provisória da Guerra do Emperium No\.\d+ está disponível\. ?Você pode checar a Placa de Status de Investimento em cada Feudo\.
+
+Dundé: .*
+
+Hoje, preparamos um evento de degustação\. Venha experimentar biscoitos caseiros especiais\.
+
+# GM filho da puta fazendo evento de cristal enfia no rabo porra
+Foi visto um grupo de Cristais
+Vimos uma grande quantidade de Cristais invadindo
+# temporary global match:
+\[GE\]Shura:.*
+\[GE\]Horo:.*
+\[G.\]Jhonps:.*
+\[LU\] ?Paprika Flamehart:.*
+
+No Bungee Jumping:.*
+
+BEEEP! BEEEP! 
+Promoções
+Caso receba uma mensagem privada de alguém se passando por GM
+invadindo
+
+Caso receba (alguma |uma )?(mensagem|PM)
+Não acredite\. Tire prints e nos envie como denúncia\.
+tire print
+Preserve o sigilo de seus dados\.
+se passando por um
+
+Você não pode mais usar o poder misterioso da água do banho\.
+
+Uuuuuh!~
+invadindo
+
+
+# COMODO
+O teste vai começar logo\. Por favor, se esforce ao máximo\.
+Muito bem\.
+PARA BAIXO À ESQUERDA & PARA BAIXO À DIREITA & PARA BAIXO À ESQUERDA
+
+
+Nenhum funcionário
+pedirá seus dados
+
+Caso tenha dúvidas, poderá exigir que o GM apareça para você
+roupa
+(nick|nome) na cor amarela
+altere
+Conta Level Up
+entrar em contato
+
+O selo \[.+\] está prestes a se abrir\.
+
+
+Bom dia aventureiros!
+The 'Pintados Festival' ended with great success\.
+
+aventureiros
+twitch
+Jotunheim
+venham
+jornada

@@ -1,0 +1,101 @@
+100000~~100040
+# =================== UM GM FOI DETECTADO ==================
+# Called by hook packet/actor_info
+# MOTIVO: ID na blacklist
+# User: linktome
+# Time: Aug 13 03:47:44 2014
+# Map: iz_dun03 Zone: 200.229.50.73:5000
+# ID: 100003
+# Nome: kja999
+# ==========================================================
+103680~~103690 # complementar
+1909615
+1909616
+1909617
+# 1909618 odin_B8_5820_WZ
+1909619
+1909620
+
+2256720 # complementar
+2256718
+
+# chute do Sugoi (2771256):
+2771250~2771260
+
+3114920~~3114929
+3117268
+3125310~~3125315
+3146303
+3155450~~3155455
+3178839
+3201057
+3360650~~3360655
+3430014
+3586075~~3586079
+# 3586080 FalcoPeregrinus, player
+3586081~~3586085
+# 3656290~~3656295
+3656290~~3656293
+3656295
+3665242
+3792576
+3905114 # unsure - complementar
+# 4411288 # testing (DarknessAlquimista, nem era GM)
+4474231
+4474239
+4474249
+4474299~~4474302
+# 4474303 # SicalisFlaveola
+4474304~~4474310
+4474312
+4474313
+
+# 4474314 = um tal de Slaydz
+# 4474323 == jhonps
+4474315~~4474326
+4474339
+4560441 # complementar
+799190~~799205
+
+
+# 4616685 # chutada - Haruhime/testelup090
+4616686 # chutada
+4616687 # chutada
+4616688 # testelup124 - achei no Odin
+4616689 # chutada
+4616690 # chutada
+4616691 # bRO80? - baniu o Sugoi
+
+
+
+4616670
+4616671
+# 4616672 is Dazzle (Shadow Priest)
+
+4616673~~4616676
+# 4616677 TranceLusty
+# 4616712 ~*BlueStrike
+4616678~~4616697
+# 4616698 Kacildes :'3
+4616699~~4616711 # testelup085 (4616685) e testelup109 (4616687) e testelup036 (4616679)
+4616713
+# 4616714 um player chato pra caramba, que fica triggando direto
+4616715~~4616720
+# 4616692~~4616700 # chutadas - pós mega ban 0f d00m do Sugoi, tirei pq ja estavam ai em cima /\
+
+
+799194~~799203 # nao faço ideia de quem seja
+
+3334531 # [LU]Ranulf McWolf
+4655431 # [LU!]Heriol Moonweaver
+#4657513 # [LU!]Fox Smallheal, TesteLup344
+4657511~~4657520
+
+
+# 4787400 is testelup9008
+4787395
+4787396
+# 4787397 is scarlett witch
+4787398~~4787410
+
+# 5142357 # Teste201912783, nao sei se é GM -- player fazendo graça :)

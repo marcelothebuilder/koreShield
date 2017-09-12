@@ -1,0 +1,67 @@
+############################################################
+#
+# koreShield plugin config file ! ^__________^
+#
+############################################################
+[CONFIG]
+debug 0
+debug_broadcast 1
+debug_detect 0
+debug_ping 0
+disable 0
+disable_broadcast 1
+disable_ping 0
+disable_detect 0
+disable_core 0
+ignore_detected_ping 0
+silent 0
+#pingGMpp
+ping_checkDelay 0.3
+ping_inLockOnly 0
+ping_notInExcludeMap 0
+ping_notWhileQueued macro NPC
+# ping_relogTime 60
+# ping_relogTimeSeed 300
+detectGM_notInTown 1
+detectGM_teleportCheck_ignorePortal 1
+detectGM_monsterMaxDist 6
+detectGM_avoidPerfectHidden 1
+detectGM_toleranceAfterNPCtalk 10
+detectGM_allowedMaps
+detectGM_alwaysAllowedMaps
+detectGM_forbiddenMaps
+detectGM_avoidStrangeSkillsBehaviour 1
+promiscuous_mode 0
+testMode 0
+ping_global_halftime 0.7
+
+[WHITELISTIDS]
+!include includes/whitelist-gm-ids.txt
+
+[GMIDS]
+!include includes/blacklist-gm-ids.txt
+
+[NAMES]
+!include includes/blacklist-names.txt
+
+[PARTY]
+!include includes/blacklist-party.txt
+
+[GUILD]
+!include includes/blacklist-guild.txt
+
+[GUILDTITLE]
+!include includes/blacklist-guildtitle.txt
+
+[EQUIPS]
+!include includes/blacklist-equips.txt
+
+[BROADCASTWHITELIST]
+!include includes/whitelist-broadcast.txt
+
+[BROADCASTBLACKLIST]
+!include includes/blacklist-broadcast.txt
+
+[EXCLUDEMAPS]
+prontera
+!include includes/excludemaps-novice-training.txt

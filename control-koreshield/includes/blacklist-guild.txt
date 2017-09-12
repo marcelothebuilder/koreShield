@@ -1,0 +1,13 @@
+.* GM.*
+#^GM.*
+#.* Staff.*
+#.*Level Up.*
+.*bRO GM Team.*
+.*alomaezinha.*
+^Game Master\.$
+#^WTF\?
+Asgardenado
+jflksdhfs
+Equipe Level ?Up
+^Teste_de_GVG
+huehuehuuhuh
