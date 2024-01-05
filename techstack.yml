@@ -1,7 +1,8 @@
 repo_name: marcelothebuilder/koreShield
 report_id: 1df22bb2f371aaf81b6dfbc8395d34f3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T20:00:21+00:00'
+timestamp: '2024-01-05T08:52:15+00:00'
 requested_by: marcelothebuilder
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/marcelothebuilder/koreShield
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/marcelothebuilder/koreShield
   detection_source: Repo Metadata
